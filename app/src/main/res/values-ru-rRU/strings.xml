@@ -2,4 +2,8 @@
 <resources>
     <string name="app_name">ЛетняяПрактика24</string>
     <string name="send_button_text">Отправить</string>
+
+    <string name="profile_screen">Профиль</string>
+    <string name="main_screen">Главная</string>
+    <string name="settings_screen">Настройки</string>
 </resources>
